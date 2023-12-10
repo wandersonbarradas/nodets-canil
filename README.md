@@ -8,6 +8,10 @@
 
 `npm install`
 
+### Variaveis de ambiente:
+
+`PORT=numerodaporta`
+
 ### Para rodar o projeto:
 
 `npm run dev`
